@@ -3,7 +3,7 @@
 
 TODO
 
-master list of my solutions to leetcodr problems 
+master list of my solutions to leetcode problems 
 
 https://github.com/suxrobGM/leet-code
 
