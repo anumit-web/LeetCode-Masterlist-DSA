@@ -14,3 +14,12 @@ https://github.com/ashishps1/awesome-leetcode-resources
 Coding Interview University
 https://github.com/jwasham/coding-interview-university
 
+Cracking the Facebook Coding Interview:
+ The Approach
+ Problem Walkthrough
+ https://www.youtube.com/watch?v=wCl9kvQGHPI
+ https://www.youtube.com/watch?v=4UWDyJq8jZg
+
+
+ 
+
